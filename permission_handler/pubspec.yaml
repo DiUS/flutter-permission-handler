@@ -19,7 +19,7 @@ dependencies:
   permission_handler_platform_interface:
     git: https://github.com/DiUS/flutter-permission-handler.git
     path: permission_handler_platform_interface
-    ref: ead0c52
+    # ref: ead0c52
 dev_dependencies:
   flutter_test:
     sdk: flutter
