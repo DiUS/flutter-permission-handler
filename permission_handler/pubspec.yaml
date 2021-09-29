@@ -17,8 +17,9 @@ dependencies:
     sdk: flutter
   meta: ^1.3.0
   permission_handler_platform_interface:
-    path: ../permission_handler_platform_interface  # FIXME: Publish new version and use it here
-
+    git: https://github.com/DiUS/flutter-permission-handler.git
+    path: permission_handler_platform_interface
+    ref: ead0c52
 dev_dependencies:
   flutter_test:
     sdk: flutter
